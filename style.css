@@ -1,5 +1,5 @@
 markdown-body .callout[theme="🎅"] {
-  --background: #c54245;
-  --border: #ffffff6b;
-  --text: #f5fffa;
+  background: #c54245;
+  border: #ffffff6b;
+  text: #f5fffa;
 }
